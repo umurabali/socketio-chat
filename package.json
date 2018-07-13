@@ -1,0 +1,22 @@
+{
+  "name": "socketio-chat",
+  "version": "1.0.0",
+  "description": "a simple socket.io chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket.io"
+  ],
+  "author": "Umur ABALI",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
